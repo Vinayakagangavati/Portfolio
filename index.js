@@ -101,5 +101,5 @@ function movielink() {
 }
 
 function projects() {
-  window.open("https://github.com/Vinayakagangavati?tab=repositories");
+  window.open("https://vinayakagangavati.github.io/weatherandlocation/");
 }
