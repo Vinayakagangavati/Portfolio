@@ -97,7 +97,7 @@ function frontendlink() {
 }
 
 function movielink() {
-  window.open("https://vinayakagangavati.github.io/react-moviesapp");
+  window.open("https://react-moviesapp.vercel.app/");
 }
 
 function projects() {
